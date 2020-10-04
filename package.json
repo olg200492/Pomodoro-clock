@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Freshman-tech/pomodoro.git"
+    "url": ""
   },
   "keywords": [
     "pomodoro",
     "javascript"
   ],
-  "author": "Ayooluwa Isaiah <https://freshman.tech/pomodoro-timer>",
+  "author": ">",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Freshman-tech/pomodoro/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Freshman-tech/pomodoro#readme",
+  "homepage": "",
   "dependencies": {
     "browser-sync": "^2.26.12"
   }

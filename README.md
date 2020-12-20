@@ -5,5 +5,3 @@
 2.CSS</br>
 3.JavaScript
 
-## Back end:
-1.Node.js
